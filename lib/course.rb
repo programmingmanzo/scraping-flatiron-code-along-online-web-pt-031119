@@ -9,6 +9,8 @@ class Course
     @@all 
   end 
   
+  def 
+  
 end 
 
 
