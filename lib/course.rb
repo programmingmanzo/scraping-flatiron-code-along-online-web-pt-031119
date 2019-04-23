@@ -9,8 +9,6 @@ class Course
     @@all << self 
   end 
   
-  def 
-  
 end 
 
 
