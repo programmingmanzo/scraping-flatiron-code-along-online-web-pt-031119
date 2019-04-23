@@ -6,8 +6,13 @@ class Course
  
  
   def self.all 
-    @@all << self 
+    @@all
   end 
+  
+  def self.reset.all 
+    @@all = []
+  end 
+  
   
 end 
 
